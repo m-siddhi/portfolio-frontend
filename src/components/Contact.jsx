@@ -27,7 +27,7 @@ export default function ContactSection() {
 
     try {
       const response = await fetch(
-        "https://your-backend.onrender.com/api/contact",
+        "https://portfolio-api-fji2.onrender.com/api/contact",
         {
           method: "POST",
           headers: {
