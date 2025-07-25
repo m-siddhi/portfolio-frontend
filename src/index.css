@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     cursor: none;
 }
 
@@ -13,6 +16,8 @@ body {
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
+    width: 100%;
+    overflow-x: hidden; /* Add this */
     /* overflow-x: hidden; */
 }
 
