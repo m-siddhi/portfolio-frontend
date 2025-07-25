@@ -14,6 +14,9 @@ import {
   IoLogoFirebase,
   IoLogoWordpress,
 } from "react-icons/io5";
+import { SiExpress } from "react-icons/si";
+import { FaNodeJs } from "react-icons/fa6";
+import { DiMongodb } from "react-icons/di";
 
 export default function Skills() {
   const skills = [
@@ -22,7 +25,10 @@ export default function Skills() {
     { name: "JavaScript", icon: <IoLogoNodejs /> },
     { name: "Bootstrap", icon: <FaBootstrap /> },
     { name: "Tailwind Css", icon: <RiTailwindCssFill /> },
-    { name: "React", icon: <IoLogoReact /> },
+    { name: "React JS", icon: <IoLogoReact /> },
+    { name: "Express JS", icon: <SiExpress /> },
+    { name: "Node JS", icon: <FaNodeJs /> },
+    { name: "Mongo DB", icon: <DiMongodb /> },
     { name: "Git", icon: <FaGitAlt /> },
     { name: "PHP", icon: <FaPhp /> },
     { name: "Firebase", icon: <IoLogoFirebase /> },
