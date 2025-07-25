@@ -31,13 +31,14 @@ export default function Hero() {
 
           <p className="mt-8" data-aos="fade-up" data-aos-delay="200">
             I specialize in building fast, responsive, and user-friendly web
-            interfaces using React.js, JavaScript, and Tailwind CSS. I’ve also
-            worked on full-stack projects using the MERN stack (MongoDB,
-            Express.js, React.js, Node.js), giving me a strong understanding of
-            how frontend and backend connect. Currently, I’m open for freelance
-            projects, part-time roles, and collaborations. Whether it’s a
-            landing page, a business website, or a React-based web app — I bring
-            clean code, great UI/UX, and reliable delivery.
+            interfaces using React.js, JavaScript, and Tailwind CSS. <br />
+            I’ve also worked on full-stack projects using the MERN stack
+            (MongoDB, Express.js, React.js, Node.js), giving me a strong
+            understanding of how frontend and backend connect. <br /> Currently,
+            I’m open for freelance projects, part-time roles, and
+            collaborations. Whether it’s a landing page, a business website, or
+            a React-based web app — I bring clean code, great UI/UX, and
+            reliable delivery.
           </p>
 
           {/* buttons */}
