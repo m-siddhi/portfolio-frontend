@@ -34,38 +34,36 @@ const About = () => {
           >
             About <span className="text-[#D1A6E9]">Me</span>
           </h2>
-
           <p
             className="mb-4 text-base leading-relaxed text-white"
             data-aos="fade-left"
             data-aos-delay="400"
           >
-            I'm a Frontend Developer and Freelancer specializing in React.js,
-            JavaScript, and responsive design. I create fast, accessible, and
-            user-focused web applications with clean code and polished UI/UX.
+            I'm a Frontend Developer with a strong foundation in building
+            responsive, accessible, and user-focused web applications using
+            React.js, JavaScript, and Tailwind CSS.
           </p>
-
           <p
             className="mb-4 text-base leading-relaxed text-white"
             data-aos="fade-left"
             data-aos-delay="500"
           >
-            Whether it's building dynamic React apps, customizing WordPress
-            themes, or designing visual assets in Photoshop and Illustrator, I
-            bring a full-stack mindset to frontend work. My projects span
-            scalable websites, landing pages, and custom components—all built
-            with performance and usability in mind.
+            I've also worked on full-stack projects using the MERN stack
+            (MongoDB, Express.js, React.js, Node.js), giving me experience in
+            building complete web apps—from backend APIs to polished frontends.
+            In addition to coding, I enjoy crafting clean UI/UX, customizing
+            WordPress themes, and working with tools like Photoshop and
+            Illustrator for visual design.
           </p>
-
           <p
             className="text-base leading-relaxed text-white"
             data-aos="fade-left"
             data-aos-delay="600"
           >
-            I'm currently freelancing and open to new opportunities,
-            collaborations, or part-time roles. I'm also constantly leveling up
-            my skills and staying in sync with the latest front-end trends and
-            tools.
+            I'm currently offering freelance services and open to exciting
+            projects, part-time roles, or collaborations. I stay actively
+            engaged in learning and keeping up with modern web technologies to
+            deliver high-quality, scalable solutions.
           </p>
         </div>
       </div>
