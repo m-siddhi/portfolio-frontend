@@ -6,7 +6,7 @@ export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="absolute top-4 left-1/2 transform -translate-x-1/2 z-50 w-[95%] max-w-[1000px] px-6 py-4 bg-gradient-to-r from-[#37123e]/90 to-[#5F1A63]/90 backdrop-blur-md shadow-2xl rounded-full border border-white/20">
+    <header className="fixed top-4 inset-x-4 z-50 max-w-[1000px] mx-auto px-6 py-4 rounded-xl bg-white/80 backdrop-blur-md border border-white shadow-md">
       <div className="flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center gap-2">
